@@ -1,0 +1,16 @@
+{
+  "name": "aula27",
+  "version": "1.0.0",
+  "description": "* Compreender o funcionamento da condicional dupla. * Utilizar `if` e `else` juntos. * Entender o caminho verdadeiro e o caminho falso. * Criar decisões com duas possibilidades. * Combinar `if/else` com operadores de comparação. * Combinar `if/else` com operadores lógicos. * Aplicar condicionais duplas em problemas reais.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.1"
+  }
+}

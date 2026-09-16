@@ -1,0 +1,16 @@
+{
+  "name": "aula26",
+  "version": "1.0.0",
+  "description": "* Compreender o conceito de múltiplas condições. * Utilizar o operador lógico `&&`. * Utilizar o operador lógico `||`. * Utilizar o operador lógico `!`. * Combinar operadores de comparação com operadores lógicos. * Entender como o JavaScript avalia múltiplas condições. * Aplicar operadores lógicos em situações reais.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.1"
+  }
+}

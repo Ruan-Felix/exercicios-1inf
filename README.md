@@ -19,14 +19,9 @@ Complete os exercícios no tempo estimado.
 - Projeto Pessoal: Desenvolver um sistema com JavaScript puro utilizando os conteúdos DEMONSTRADOS EM AULA, que resolva um PROBLEMA PESSOAL.
 Previsão para 23-set à 30-set | Quantidade de Indivíduos: 1 pessoas (3-5 min de apresentação)
 - Prova Bimestral: previsão para final de setembro à começo de outubro
-- **⚠️ Projeto 1 - Sistema de Controle de Pedidos**<br>
-Prazo de Entrega 1: 28-ago (2,5 pt) | Prazo de Entrega 2: 01-set (1,5 pt)
-- **⚠️ Projeto 2 - Sistema de Análise de Pedidos**<br>
-Prazo de Entrega 1: 17-set (2,5 pt) | Prazo de Entrega 2: 21-set (1,5 pt)
-- **Projeto 3 - **<br>
-Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
-- **Projeto 4 - **<br>
-Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
+- **⚠️ Projeto 1** - Prazo de Entrega 1: 28-ago (2,5 pt) | Prazo de Entrega 2: 01-set (1,5 pt)<br>
+- **⚠️ Projeto 2** - Prazo de Entrega 1: 17-set (2,5 pt) | Prazo de Entrega 2: 21-set (1,5 pt)<br>
+- **⚠️ Projeto 3** - Prazo de Entrega 1: 21-set (2,5 pt) | Prazo de Entrega 2: 24-set (1,5 pt)<br>
 
 ✅ Projeto corrigido
 ⚠️ Projeto a ser corrigido
